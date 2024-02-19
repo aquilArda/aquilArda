@@ -1,5 +1,5 @@
 # Hi 👋
-# Hey there! I'm Arda, a 16-year-old full-stack web developer from Turkey. My passion for coding goes hand in hand with my strong advocacy for free and open-source software. Pop! OS is my current distro, but Fedora Linux has a special place in my heart.
+# I'm Arda, a 16-year-old full-stack web developer from Turkey. My passion for coding goes hand in hand with my strong advocacy for free and open-source software. Pop! OS is my current distro, but Fedora Linux has a special place in my heart.
 
 # Being part of Team Voltran for Teknofest and First Lego League at my school brings out the team player in me. I thrive on collaboration and love being in the thick of it, trying to contribute my skills to the success of the team.
 
